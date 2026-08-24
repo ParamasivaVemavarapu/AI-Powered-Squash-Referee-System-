@@ -2,6 +2,10 @@
 
 A full-stack decision-support platform that converts structured rally observations into explainable squash calls, match scoring, and an auditable event timeline.
 
+![CourtSense representative product preview](docs/product-preview.svg)
+
+> **Representative product preview:** the UI is implemented in `frontend/`; this SVG makes the repository understandable without cloning it.
+
 > This portfolio implementation demonstrates the software architecture and rules layer. It does **not** claim tournament certification or trained computer-vision accuracy. A future vision pipeline can publish observations through the same typed API.
 
 ## The problem
