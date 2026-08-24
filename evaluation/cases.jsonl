@@ -1,0 +1,10 @@
+{"id":"good-1","observation":{"rally_id":"good-1"},"expected":"good_return","safety_critical":false}
+{"id":"fault-1","observation":{"rally_id":"fault-1","serve_valid":false},"expected":"fault","safety_critical":false}
+{"id":"down-1","observation":{"rally_id":"down-1","ball_hit_tin":true},"expected":"down","safety_critical":false}
+{"id":"out-1","observation":{"rally_id":"out-1","ball_out":true},"expected":"out","safety_critical":false}
+{"id":"bounce-1","observation":{"rally_id":"bounce-1","bounce_count":2},"expected":"double_bounce","safety_critical":false}
+{"id":"stroke-1","observation":{"rally_id":"stroke-1","opponent_prevented_swing":true,"striker_had_direct_access":true},"expected":"stroke","safety_critical":true}
+{"id":"stroke-2","observation":{"rally_id":"stroke-2","opponent_prevented_swing":true,"striker_had_direct_access":false,"safety_risk":true},"expected":"stroke","safety_critical":true}
+{"id":"let-1","observation":{"rally_id":"let-1","interference":true,"striker_had_direct_access":true},"expected":"yes_let","safety_critical":false}
+{"id":"no-let-1","observation":{"rally_id":"no-let-1","interference":true,"striker_had_direct_access":false},"expected":"no_let","safety_critical":false}
+{"id":"review-1","observation":{"rally_id":"review-1","observation_confidence":0.5},"expected":"human_review","safety_critical":true}
