@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#f3f4ef"/>
+  <rect x="56" y="34" width="1168" height="652" rx="12" fill="#fcfcf8" stroke="#ced2c9"/>
+  <rect x="88" y="70" width="42" height="42" rx="5" fill="#111613"/>
+  <text x="109" y="97" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#d9ff4f">CS</text>
+  <text x="148" y="97" font-family="Arial" font-size="15" font-weight="700" letter-spacing="2" fill="#111613">COURTSENSE</text>
+  <circle cx="1084" cy="89" r="6" fill="#1f6b4c"/>
+  <text x="1100" y="95" font-family="Arial" font-size="12" font-weight="700" letter-spacing="1" fill="#1f6b4c">REFEREE CONSOLE</text>
+  <line x1="88" y1="132" x2="1192" y2="132" stroke="#ced2c9"/>
+  <text x="88" y="184" font-family="Arial" font-size="12" font-weight="700" letter-spacing="2" fill="#1f6b4c">EXPLAINABLE DECISION SUPPORT</text>
+  <text x="88" y="246" font-family="Arial" font-size="55" font-weight="700" fill="#111613">Every call.</text>
+  <text x="88" y="306" font-family="Georgia" font-size="55" font-style="italic" fill="#1f6b4c">Evidence included.</text>
+  <rect x="88" y="350" width="518" height="288" rx="8" fill="#ffffff" stroke="#ced2c9"/>
+  <text x="116" y="390" font-family="Arial" font-size="14" font-weight="700" fill="#111613">01  RALLY OBSERVATION</text>
+  <g font-family="Arial" font-size="13" fill="#111613">
+    <rect x="116" y="420" width="216" height="48" rx="4" fill="#eef8f1" stroke="#1f6b4c"/>
+    <text x="140" y="450">✓  Interference</text>
+    <rect x="348" y="420" width="216" height="48" rx="4" fill="#eef8f1" stroke="#1f6b4c"/>
+    <text x="372" y="450">✓  Direct access</text>
+    <rect x="116" y="482" width="216" height="48" rx="4" fill="#eef8f1" stroke="#1f6b4c"/>
+    <text x="140" y="512">✓  Swing prevented</text>
+    <rect x="348" y="482" width="216" height="48" rx="4" fill="#eef8f1" stroke="#1f6b4c"/>
+    <text x="372" y="512">✓  Safety risk</text>
+  </g>
+  <rect x="116" y="570" width="448" height="44" rx="4" fill="#111613"/>
+  <text x="340" y="598" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#ffffff">Evaluate rally →</text>
+  <rect x="630" y="350" width="562" height="288" rx="8" fill="#ffffff" stroke="#ced2c9"/>
+  <text x="658" y="390" font-family="Arial" font-size="14" font-weight="700" fill="#111613">02  REFEREE DECISION</text>
+  <text x="658" y="442" font-family="Arial" font-size="11" font-weight="700" letter-spacing="2" fill="#1f6b4c">AUTOMATED CALL</text>
+  <text x="658" y="514" font-family="Georgia" font-size="64" fill="#1f6b4c">Stroke</text>
+  <rect x="658" y="536" width="126" height="30" rx="4" fill="#d9ff4f"/>
+  <text x="721" y="556" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700" fill="#354110">96% confidence</text>
+  <text x="658" y="598" font-family="Arial" font-size="14" fill="#555d57">Prevented direct swing with safety risk.</text>
+  <text x="1192" y="670" text-anchor="end" font-family="Arial" font-size="11" fill="#747b75">REPRESENTATIVE PRODUCT PREVIEW</text>
+</svg>
